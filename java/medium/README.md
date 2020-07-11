@@ -1,0 +1,1 @@
+This directory contains Java solutions to medium Top-100 Leetcode problems. 
